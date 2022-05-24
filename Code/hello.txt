@@ -1,0 +1,490 @@
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+The first line is the important one, when we call a method the method is called on the Object at the reference location. At this point, balloon is pointing to 100 and hence it color is changed to Red.
+In the next line, ballon reference is changed to 200 and any further methods executed are happening on the object at memory location 200 and not having any effect on the object at memory location 100. This explains the third line of our program output printing blue color=Red.
+I hope the above explanation clears all the doubts, just remember that variables are references or pointers and its copies are passed to the methods, so java is always pass-by-value. It would be more clear when you will learn about Heap and Stack memory and where different objects and references are stored, for a detailed explanation with reference to a program, read Java Heap vs Stack.
+Notice that we are changing values of o1 and o2 but they are copies of red and blue reference locations, so actually there is no change in the values of red and blue and hence the output.
+If you have understood this far, you can easily understand the cause of confusion. Since the variables are just the reference to the objects, we get confused that we are passing the reference so java is passed by reference. However, we are passing a copy of the reference and hence it pass by value. I hope it clears all the doubts now.
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+xua chung ta chung truong cung nhau ket hoa uoc hen ma sao bong dung em lai bo quen hoa quen di tinh toi That la ky la qua di kho hieu ghe
+Tuoi hong tho ngay duoi mai truong tuoi tho da di qua roi de lai trong toi mot noi buon noi len tieng yeu lang tham anh danh cho em
+
